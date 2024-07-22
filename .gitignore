@@ -1,0 +1,16 @@
+# Dev stuff
+._DEV
+
+# VS Code workspace config
+.vscode
+
+# Type hint
+types
+
+# Code format
+.stylua.toml
+
+# DSL script config file v1-9
+config.txt
+# DSL v10
+config.ini
